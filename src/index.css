@@ -30,7 +30,7 @@
     height: 100px;
 }
 
-.title h3,h4{
+.title h3{
     text-align: center;
     font-weight: bold;
     text-transform: capitalize;
@@ -85,12 +85,13 @@
 .button_cont{
     width: 70%;
     margin-left: 15%;
+    margin-bottom: 30px;
 }
     .button_cont p{
     margin-left: 5%;
     margin-right: 5%;
     font-size: 20px;
-    line-height: 40px;
+    line-height:30px;
     letter-spacing: 3px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
@@ -249,7 +250,7 @@ footer i{
     margin-top: 100px;
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     display: flex;
     flex-wrap: wrap;
     gap: 70px;
@@ -265,7 +266,7 @@ footer i{
         margin-bottom: 40px;
  }
  .aboutme p{
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: 2px;
     line-height: 30px;
  }
@@ -288,7 +289,7 @@ p.onepage:first-letter {
 .myfave{
     flex-wrap: wrap;
     display: flex;
-    gap: 200px;
+    gap: 160px;
     margin-left: 15%;
     margin-right: 15%;
     margin-bottom: 100px;

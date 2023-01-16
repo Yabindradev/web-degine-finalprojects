@@ -55,11 +55,10 @@ class Myheader extends HTMLElement{
 
 
    <div class="topimg">
-    <img src="/img/180bg.png">
+    <img src="./img/180bg.png">
    </div>
    <div class="title">
-    <h3>About myslef</h3>
-    <h4 >my self with my favorate thing</h4>
+    <h3>ジブンクロニクル</h3>
    </div>
 
 
