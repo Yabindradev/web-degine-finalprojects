@@ -101,18 +101,16 @@ footer{
     height: 100px;
     margin-left: 10%;
     margin-right: 10%;
-    margin-top: 40px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     border-radius: 6px;
     border: 3px dashed var(--footerborder);
    
 }
-footer p{
-    margin-top: 10px;
-}
+
+
 footer i{
-    margin-top: 5px;
+ 
     width: 30px;
     height: 30px;
     color: var(--icon);
@@ -258,13 +256,13 @@ footer i{
  }
  .onepage{
     width: 500px;
-    height: 100px;
-    margin-bottom: 120px;
+    height: auto;
+    margin-bottom: 40px;
  }
  .otherpages{
     width: 500px;
-        height: 100px;
-        margin-bottom: 80px;
+        height: auto;
+        margin-bottom: 40px;
  }
  .aboutme p{
     font-size: 18px;
