@@ -107,7 +107,6 @@ class Globlenavibar extends HTMLElement{
         <ul>
             <li><a href="index.html">HOME</a></li>
             <li><a href="favorite.html">MY FAVORITE</a></li>
-            <li><a href="favorite.html"> FAVORITE</a></li>
             <li><a href="create.html">今の私を作るもの</a></li>
         </ul>
     </div>
