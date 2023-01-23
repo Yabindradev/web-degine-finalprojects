@@ -134,6 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
+      });
         
         function topFunction() {
             document.body.scrollTop = 0;
@@ -142,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-});
+
 
 
 
