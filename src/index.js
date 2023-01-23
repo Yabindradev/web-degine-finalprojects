@@ -85,7 +85,7 @@ class Myfooter extends HTMLElement{
 <a href="https://www.facebook.com/people/Yabindra-Bhujel/100012868602296/"><i class="fa-brands fa-facebook"></i></a>
 <a href=""><i class="fa-brands fa-square-instagram"></i></a>
 <a href=""><i class="fa-brands fa-discord"></i></a>
-<a href=""><i class="fa-brands fa-square-github"></i></a>
+<a href="https://github.com/Yabindradev"><i class="fa-brands fa-square-github"></i></a>
 
 
    </footer>
